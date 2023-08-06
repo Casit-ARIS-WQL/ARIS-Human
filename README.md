@@ -1,2 +1,2 @@
-# AIRS-Human
+# ARIS-Human
 We proposed a dataset called AIRS-Human include ten sequences include RGB images and a ground-truth with joint coordinates. And the dataset will be available in the near future...
