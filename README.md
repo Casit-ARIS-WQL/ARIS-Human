@@ -1,2 +1,3 @@
 # ARIS-Human
 We proposed a dataset called ARIS-Human includes ten sequences with RGB images and a ground truth with joint coordinates. And the dataset will be available soon...
+![这是图片](22541744273970_.pic.jpg "Magic Gardens")
